@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abesis1
 - 👀 I’m interested in coding some apps and games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me Discord: ADON#7167
 
 <!---
