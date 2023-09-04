@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abesis1
+- 👋 Hi, I’m @Siseba (Abesis reversed)
 - 👀 I’m interested in coding some apps and games
 - 🌱 I’m currently learning C#
 - 📫 How to reach me Discord: abesis
