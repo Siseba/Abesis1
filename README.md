@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abesis1
 - 👀 I’m interested in coding some apps and games
 - 🌱 I’m currently learning C#
-- 📫 How to reach me Discord: ADON#7167
+- 📫 How to reach me Discord: abesis
 
 <!---
 Abesis1/Abesis1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
